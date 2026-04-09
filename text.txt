@@ -1,5 +1,2 @@
 This is first commit
-
-this is wrong commit 
-
 this is third commit
